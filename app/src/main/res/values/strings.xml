@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioQr</string>
+    <string name="botonir">ir</string>
+    <string name="btncopiar">Copiar</string>
+</resources>
